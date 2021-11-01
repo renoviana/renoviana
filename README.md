@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renoviana)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=renoviana&count_private=true&show_icons=true&theme=dark)
+<a href="https://github.com/renoviana">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renoviana&show_icons=true&theme=dark&line_height=40"/>
+</a>
+<a href="https://github.com/renoviana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renoviana&hide=jupyter%20notebook&theme=dark&hide_langs_below=1" />
+</a>
