@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/renoviana">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renoviana&show_icons=true&theme=dark&line_height=40"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=renoviana&show_icons=true&theme=dark&line_height=40&count_private=true"/>
 </a>
 <a href="https://github.com/renoviana">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renoviana&hide=jupyter%20notebook&theme=dark&hide_langs_below=1" />
